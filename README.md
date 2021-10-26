@@ -1,19 +1,17 @@
 # python-contact-saver-app
-# Git-search-engine
 
-# Author
+# *Author
 Dickson Njuguna..
 
 # *project description
-
-This is a angular based project with the aim of learning new objectives  in the angular framework by learning services and equiring data from data base and storing it to our data base....the project function is that the user is able to search the own github usernames and repository and see ther projectse.
-
+this is a python application ...that allows  the user to enter
+their credantials  such as their  username passwords 
+..this app helps them keep their info conffidentcial and saves their passwords for later use ....the user doesn't have to remember their  passwords ..the system saves their passwords for them
 
 ## Technologies Used
-
-- *)
+- python3 modules
+- pyperclip module (to allow user to copy the info on a clipboard and eary out the work)
 - 
-
 
 ## Setup Instructions
 
@@ -43,13 +41,15 @@ If you find a bug (the website couldn't handle the quehttps://dick7005.github.io
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 {if possuble help in deploying the angular project on its gh-pages}
+would like to collabo...ur free to
+
 
 ## *contact
 *Tell:0757116399
 
 *Email:pythonscript254@gmail.com.
 
-*Github:https://github.com/dick7005/Git-srch-engine
+*Github:https://github.com/dick7005/python-contact-saver-apphh
 
 *
 
@@ -57,11 +57,20 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### License....
 
 *MIT*
-Copyright (c) 2021 **Dickson Njuguna**
+Copyright (c) 2021 **Dickson Njuguna**MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Copyright (c) 2021 Hack...smith
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,..
-# git-engine
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+
+
