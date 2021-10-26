@@ -41,6 +41,8 @@ If you find a bug (the website couldn't handle the quehttps://dick7005.github.io
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 {if possuble help in deploying the angular project on its gh-pages}
+would like to collabo...ur free to
+
 
 ## *contact
 *Tell:0757116399
