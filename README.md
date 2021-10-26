@@ -11,11 +11,7 @@ This is a angular based project with the aim of learning new objectives  in the 
 
 ## Technologies Used
 
-- *angular
-- *javascript..(to allow interaction of the user and the webpage)
-- *css      ..(to style the web page)
-- *bootstrap ..(to import styling properties)
-- *fontowsome ..(to add icons to our web page)
+- *)
 - 
 
 
