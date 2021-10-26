@@ -249,7 +249,7 @@ def main():
 
                     print('\n')
 
-                    print("Do you want password to auto-generate ..use below options")
+                    print("chose below options to auto-generate new password")
 
                     print("Option 1: YY -- Yes")
                     print("Option 2: NN -- No")
