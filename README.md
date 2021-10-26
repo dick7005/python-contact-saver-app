@@ -51,7 +51,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 *Github:https://github.com/dick7005/Git-srch-engine
 
-*Github (gh-pages):(not-available-now)
+*
 
 
 ### License....
