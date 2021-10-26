@@ -247,8 +247,28 @@ def main():
                 print('\n')
 
                 print("You don't seem to have any credentials saved yet")
+                print("input  'back' to go back" ) 
+                input()
+                
+                input("")
 
                 print('\n')
+
+
+                if input == "back":
+
+                 print(
+        print("Use these short codes :"),
+        print("CU - Create a New User"),
+        print("FI - Find a User"),
+        print("DS - Display Users"),       
+        print("CA - Create Social Account"),
+        print("DA - Display Social Account"),
+        print("DE - Delete Social Account"),
+        print("EX - Exit the list"),
+        print("CP - for any complains"),
+        print("use the above short codes to navigate through the contact directory")
+)
 
         elif short_code == "de":
 
