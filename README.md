@@ -1,5 +1,4 @@
 # python-contact-saver-app
-# Git-search-engine
 
 # Author
 Dickson Njuguna..
