@@ -91,6 +91,7 @@ def main():
         print("DE - Delete Social Account")
         print("EX - Exit the list")
         print("CP - for any complains")
+        print("use the above short codes to navigate through the contact directory")
 
 
         short_code = input().lower()
