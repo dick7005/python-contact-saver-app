@@ -169,13 +169,13 @@ def main():
         elif short_code == 'ca':
 
                 print("Do you want password to auto-generate..use below options")
-                print("Option 1: YY -- Yes")
-                print("Option 2: NN -- No")
+                print("Option 1: Y -- Yes")
+                print("Option 2: N -- No")
                 print("Option 3: EX -- Exit the Social Acounts")
 
                 pass_auto = input().lower()
 
-                if pass_auto == 'yy':
+                if pass_auto == 'y':
                     print("Password will be auto generated")
                     print("Enter Email Address (Username).....")
                     e_mail = input()
@@ -194,7 +194,7 @@ def main():
 
                     print ('\n')
 
-                elif pass_auto == 'nn':
+                elif pass_auto == 'n':
 
                     print ("Enter Email Address (Username)....")
                     e_mail = input()
@@ -215,12 +215,39 @@ def main():
 
                     print('\n')
 
+
+                
+                elif pass_auto == 'y':
+
+                    print ("Enter Email Address (Username)....")
+                    e_mail = input()
+
+
+                    print("Platform Account (Social Account)....")
+                    p_account = input()
+
+                    print("Enter Password......")
+                    p_word = input()
+                    if len (input) < 5 :
+                        Print("character name should be a minimum of 5 characters")
+
+                    save_credential(create_credential(e_mail,p_account,p_word))
+
+
+                    print ('\n')
+
+                    print(f" New Credential for {e_mail} {p_account} created")
+
+                    print('\n')
+
                 elif pass_auto == "ex":
 
                     print("Bye ........")
 
                 else:
                     print("Invalid option..please try again")
+
+                    print('\n')
 
                     print("Do you want password to auto-generate ..use below options")
 
