@@ -1,16 +1,16 @@
 # python-contact-saver-app
 
-# Author
+# *Author
 Dickson Njuguna..
 
 # *project description
-
-This is a angular based project with the aim of learning new objectives  in the angular framework by learning services and equiring data from data base and storing it to our data base....the project function is that the user is able to search the own github usernames and repository and see ther projectse.
-
+this is a python application ...that allows  the user to enter
+their credantials  such as their  username passwords 
+..this app helps them keep their info conffidentcial and saves their passwords for later use ....the user doesn't have to remember their  passwords ..the system saves their passwords for them
 
 ## Technologies Used
 
-- *)
+- 
 - 
 
 
